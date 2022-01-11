@@ -1,0 +1,39 @@
+Reporterka: rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+ Babka: rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+ Na: przyimek
+ Medal: rzeczownik, biernik/mianownik, rodzaj m3, liczba pojedyncza
+ Czeka: czasownik w³aœciwy, rodzaj m1/m2/m3/f/n, liczba pojedyncza, osoba trzecia, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+ z: przyimek
+magnetofonem: rzeczownik, narzêdnik, rodzaj m3, liczba pojedyncza
+Tysi¹ce: rzeczownik, mianownik/biernik/wo³acz, rodzaj m3, liczba mnoga
+radios³uchaczy: rzeczownik, dope³niacz/biernik, rodzaj m1, liczba mnoga 
+s³ucha³o: czasownik w³aœciwy, rodzaj n, liczba pojedyncza, osoba trzecia, aspekt niedokonany, czas przesz³y, tryb oznajmuj¹cy
+ jak: partyku³o-przys³ówek
+ gram: czaswonik w³aœciwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+ teraz: przys³ówek 
+us³ysz¹: czasownik w³aœciwy, liczba mnoga, osoba trzecia, aspekt dokonany, czas przysz³y, tryb tryb oznajmuj¹cy 
+mój: rzeczownik, mianownik/biernik, rodzaj m1/m2/m3, liczba pojedyncza  
+g³os: rzeczownik, mianownik/biernik, rodzaj m3, liczba pojedyncza
+Umyœli³em: czasownik w³aœciwy, rodzaj m1/m2/m3/n, liczba pojedyncza, osoba pierwsza, aspet dokonany, czas przesz³y, tryb oznajmuj¹cy
+Sobie: rzeczownik, celownik, rodzaj m1/m2/m3/f/n, liczba pojedyncza
+ co: partyku³a
+powiem: czasownik w³aœciwy, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przysz³y, tryb oznajmuj¹cy
+Im: zaimek osobowy/partyku³o-przys³ówek, celownik, liczba mnoga
+Proœciej: przys³ówek odprzymiotnikowy, stopieñ wy¿szy
+tym: partyku³o-przys³ówek 
+lepiej: przys³ówek odprzymiotnikowy, stopieñ wy¿szy
+Wiêc: spójnik
+mówiê: czasownik w³aœciwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy 
+¿e: partyku³a 
+dobrze: przys³ówek odprzymiotnikowy, stopieñ równy
+siê: partyku³a 
+czujê: czasownik w³aœciwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+w: przyimek 
+klimacie: rzeczownik, miejscownik/wo³acz, rodzaj m3, liczba pojedyncza
+napiêcia: rzeczownik, dope³niacz/mianownik/biernik/wo³acz, rodzaj n, liczba pojedyncza/mnoga 
+skrytoœci: rzeczownik,  dope³niacz, rodzaj f, liczba pojedyncza
+ducha: rzeczownik, dope³niacz/biernik, rodzaj m2, liczba pojedyncza 
+marzy³em: czasownik w³aœciwy, rodzaj m1/m2/m3, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas przesz³y, tryb oznajmuj¹cy 
+o: wykrzyknik/ partyku³a
+konkursowych: przymiotnik, dope³niacz/miejscownik, rodzaj m1, liczba mnoga
+laurach: rzeczownik, miejsownik, rodzaj m2/m3/n/f, liczba mnoga

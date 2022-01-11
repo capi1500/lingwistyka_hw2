@@ -1,0 +1,9 @@
+INSERT INTO public.category (id, name) VALUES (1, 'class');
+INSERT INTO public.category (id, name) VALUES (2, 'case');
+INSERT INTO public.category (id, name) VALUES (3, 'gend');
+INSERT INTO public.category (id, name) VALUES (4, 'numb');
+INSERT INTO public.category (id, name) VALUES (5, 'pers');
+INSERT INTO public.category (id, name) VALUES (6, 'degr');
+INSERT INTO public.category (id, name) VALUES (7, 'aspe');
+INSERT INTO public.category (id, name) VALUES (8, 'time');
+INSERT INTO public.category (id, name) VALUES (9, 'mood');

@@ -1,0 +1,41 @@
+Reporterka: rzeczownik, mianownik, rodzaj f, l. poj.
+babka: rzeczownik, mianownik, rodzaj f, l. poj.
+na: przyimek
+medal: rzeczownik, mianownik, rodzaj m1/m2/m3, l. poj. 
+czeka: czasownik właściwy, l. poj., osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący 
+z: przyimek 
+magnetofonem: rzeczownik, narzędnik, rodzaj m1/m2/m3, l. poj. 
+Tysiące: liczebnik, biernik, rodzaj m3,  
+radiosłuchaczy: rzeczownik, biernik, rodzaj m1, l. mn.
+słuchało: czasownik właściwy, l. poj., osoba trzecia, aspekt niedokonany, czas przeszły, tryb oznajmujący
+jak: spójnik 
+gram: czasownik właściwy, l. poj., osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący 
+teraz: przysłówek, stopień równy
+usłyszą: czasownik właściwy, l. mn., osoba druga, aspekt dokonany, czas przyszły, tryb oznajmujący 
+mój: zaimek, mianownik
+głos: rzeczownik, mianownik, rodzaj m1/m2/m3, l. poj. 
+Umyśliłem: czasownik właściwy, l. poj., osoba pierwsza, aspekt dokonany, czas przeszły, tryb oznajmujący
+sobie: zaimek, miejscownik 
+co: przyimek 
+powiem: czasownik właściwy, l. poj., osoba pierwsza, aspekt niedokonany, czas przyszły, tryb oznajmujący 
+Im: przyimek 
+prościej: przysłówek, stopień wyższy
+tym: przyimek 
+lepiej: przysłówek, stopień wyższy 
+Więc: spójnik 
+mówię: czasownik właściwy, l. poj., osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący 
+że: spójnik 
+dobrze: przysłówek, stopień równy 
+się: zaimek 
+czuję: czasownik właściwy, l. poj., osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący 
+w: przyimek 
+klimacie: rzeczownik, miejscownik, rodzaj m1/m2/m3, l. poj. 
+napięcia: rzeczownik, dopełniacz, rodzaj m1/m2/n, l. mn. 
+że: partykuła 
+w: przyimek 
+skrytości: rzeczownik, dopełniacz, rodzaj f, l. mn. 
+ducha: rzeczownik, dopełniacz, rodzaj m1/m2/m3, l. poj. 
+marzyłem: czasownik właściwy, l. poj., osoba pierwsza, aspekt dokonany, czas przeszły, tryb oznajmujący 
+o: przyimek 
+konkursowych: przymiotnik, miejscownik, rodzaj m1, l. mn., stopień równy
+laurach: rzeczownik, miejscownik, rodzaj m3, l. mn., 

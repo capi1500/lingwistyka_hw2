@@ -1,0 +1,40 @@
+Reporterka: rzeczownik, nom, f, sg
+Babka: rzeczownik, nom, f, sg
+Na: przyimek
+Medal: rzeczownik, acc, m3, sg
+Czeka: czasownik w³aœciwy, m1/m2/m3/n/f sg, ter, imperf, pres, ind, act
+Z: przyimek
+Magnetofonem: rzeczownik, inst, m2, sg
+Tysi¹ce: rzeczownik, nom, m3, pl
+Radios³uchaczy: rzeczownik, gen, m1, pl
+S³ucha³o: czasownik w³aœciwy, n, sg, ter, imperf, past, ind, act
+Jak: zaimek wzglêdny
+gram: czasownik w³aœciwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind, act
+teraz: przys³ówek
+us³ysz¹: czasownik w³aœciwy, m1/m2/m3/n/f, pl, ter, perf, fut, ind, act
+mój: zaimek dzierzawczy, pri, acc, sg
+g³os: rzeczownik, acc, m3, sg
+Umyœli³em: czasownik w³aœciwy, m1/m2/m3 sg, pri, perf, past, ind, act
+sobie: zaimek zwrotny, pri/sec/tri, dat, sg/pl
+co: zaimek wzglêdny
+powiem: czasownik w³aœciwy, m1/m2/m3/n/f, pl, pri, perf, fut, ind, act
+Im: spójnik
+proœciej: przys³ówek, com
+tym: spójnik
+lepiej: przys³ówek, com
+wiêc: spójnik
+mówiê: czasownik w³aœciwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind, act
+¿e: przyimek
+dobrze: przys³ówek, pos
+siê czujê: czasownik w³aœciwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind, refl
+w: przyimek
+klimacie: rzeczownik, inst, m3, sg
+napiêcia: rzeczownik, gen, n, sg
+¿e: przyimek
+w: przyimek
+skrytoœci: rzeczownik, inst, f, sg
+ducha: rzeczownik, gen, m3, sg
+marzy³em: czasownik w³aœciwy, m1/m2/m3, sg, pri, impref, past, ind, act
+o: przyimek
+konkursowych: przymiotnik, loc, pl, pos
+laurach: rzeczownik, loc, f, pl

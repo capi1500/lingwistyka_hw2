@@ -1,0 +1,41 @@
+Reporterka: rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+babka: rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+na: przyimek
+medal: rzeczownik, biernik, rodzaj m3, liczba pojedyncza
+czeka: czasownik właściwy, liczba pojedyncza, osoba trzecia, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący
+z: przyimek
+magnetofonem: rzeczownik, narzędnik, rodzaj m3, liczba pojedyncza
+Tysiące: liczebnik, mianownik, rodzaj m3
+radiosłuchaczy: rzeczownik, dopełniacz, rodzaj m1, liczba mnoga
+słuchało: czasownik właściwy, liczba pojedyncza, osoba trzecia, aspekt niedokonany, czas przeszły, tryb oznajmujący
+jak: przysłówek
+gram: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący
+teraz: przysłówek
+usłyszą: czasownik właściwy, liczba mnoga, osoba trzecia, aspekt niedokonany, czas przyszły, tryb oznajmujący
+mój: zaimek
+głos: rzeczownik, biernik, rodzaj m3, liczba pojedyncza
+Umyśliłem: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przeszły, tryb oznajmujący
+sobie: zaimek
+co: zaimek
+powiem: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przyszły, tryb oznajmujący
+Im: zaimek
+prościej: przysłówek
+tym: przysłówek
+lepiej: przysłówek
+Więc: partykuła
+mówię: czasownik właściwy, liczba pojednycza, osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący
+że: spójnik
+dobrze: przysłówek
+się: zaimek
+czuję: czasownik właściwy, liczba pojednycza, osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący
+w: przyimek
+klimacie: rzeczownik, miejscownik, rodzaj m3, liczba pojedyncza
+napięcia: rzeczownik, dopełniacz, rodzaj n, liczba pojedyncza
+że: spójnik
+w: przyimek
+skrytości: rzeczownik, narzędnik, rodzaj f, liczba pojednycza
+ducha: rzeczownik, dopełniacz, rodzaj m2, liczba pojedyncza
+marzyłem: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas przeszły, tryb oznajmujący
+o: przyimek
+konkursowych: przymiotnik,dopełniacz, rodzaj f, liczba mnoga
+laurach: rzeczownik, miejscownik, rodzaj m2, liczba mnoga

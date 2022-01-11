@@ -1,0 +1,41 @@
+Reporterka: rzeczownik,mianownik,rodzaj żeński,liczba pojedyncza
+babka:rzeczownik,mianownik,rodzaj żeński,liczba pojedyncza
+na: przyimek
+medal:rzeczownik,dopełniacz,rodzaj m3,l.pojedyncza
+czeka: czasownik właściwy,liczba pojedyncza,osoba trzecia,aspekt niedokonany,czas terażniejszy,tryb oznajmujący
+z: przyimek 
+magnetofonem: rzeczownik, narzędnik,rodzaj m3,liczba pojedynczas
+Tysiące: rzeczownik,mianownik,rodzaj m3,l.mnoga  
+radiosłuchaczy: rzeczownik,dopełniacz,rodzaj m1,l.mnoga
+słuchało:czasownik właściwy,l.pojedyncza,osoba trzecia,aspekt niedokonany,czas przeszły,tryb oznajmujący
+jak:spójnik
+gram:czasownik właściwy,l.pojedyncza,osoba pierwsza,apekt niedokonany, czas teraźniejszy,ryb oznajmujący
+teraz:przysłówek 
+usłyszą: czasownik właściwy,l.mnoga,osoba trzecia,aspekt dokonany,czas przyszły,tryb oznajmujący
+mój: przyimek
+głos:rzeczownik, biernik,rodzaj m3,l.pojedyncza
+Umyśliłem: czasownik właściwy, l.pojedyncza,osoba pierwsza,aspekt dokonany,czas przeszły,tryb oznajmujący
+sobie:zaimek,celownik,l.pojedyncza,osoba pierwsza
+co:przyimek
+powiem:czasownik właściwy,l.pojedyncza,osoba pierwsza,aspekt dokonany,czas przyszły,tryb oznajmujący
+Im: zaimek,
+prościej:przysłowek
+tym: zaimek,
+lepiej: przysłówek
+Więc:spójnik
+mówię:czasownik właściwy, l.pojedyncza, aspekt niedokonany,tryb oznajmujący, czas teraźniejszy,,osoba pierwsza
+że: spójnik
+dobrze:przysłówek
+się:partykuła
+czuję:czasownik właściwy,l.pojedyncza,osoba pierwsza,aspekt niedokonany,tryb oznajmujący,czas teraźniejszy 
+w :przyimek
+klimacie:rzeczownik, miejscownik,rodzaj m3,l.pojedyncza
+napięcia:rzeczownik,dopełniacz,rodzaj nijaki,l.pojedyncza
+że:spójnik,
+ w:przyimek 
+skrytości:rzeczownik,miejscownik,l.pojedyncza,rodzaj żeński
+ducha:rzeczownik,dopełniacz,rodzaj m2,l.pojedyncza	
+marzyłem:czasownik właściwy,l.pojedyncza,osoba pierwsza, czas przeszły, aspekt niedokonany,tryb oznajmujący
+o:przyimek 
+konkursowych:przymiotnik, miejscownik,l.mnoga,rodzaj żeński
+laurach:rzeczownik, miejscownik,rodzaj żeński,l.mnoga

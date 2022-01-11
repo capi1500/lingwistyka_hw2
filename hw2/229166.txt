@@ -1,0 +1,41 @@
+Reporterka: rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+babka: rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+na: przyimek
+medal: rzeczownik, biernik, rodzaj m3, liczba pojedyncza
+czeka: czasownik w³aœciwy, rodzaj m3, liczba pojedyncza, osoba trzecia, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+z: przyimek
+magnetofonem: rzeczownik, narzêdnik, rodzaj m3, liczba pojedyncza
+Tysi¹ce: rzeczownik, mianownik, rodzaj m3, liczba mnoga
+radios³uchaczy: rzeczownik, dope³niacz, rodzaj m1, liczba mnoga
+s³ucha³o: czasownik w³aœciwy, rodzaj m1/m3, liczba pojedyncza, osoba trzecia, aspekt niedokonany, czas przesz³y, tryb oznajmuj¹cy
+jak: spójnik
+gram: czasownik w³aœciwy, rodzaj m1/m2/m3/n/f, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+teraz: przys³ówek, stopieñ równy
+us³ysz¹: czasownik w³aœciwy, rodzaj m1/m2/m3/n/f, liczba mnoga, osoba trzecia, aspekt niedokonany, czas przysz³y, tryb oznajmuj¹cy
+mój: przymiotnik, biernik, rodzaj m3, liczba pojedyncza, stopieñ równy
+g³os: rzeczownik, biernik, rodzaj m3, liczba pojedyncza
+Umyœli³em: czasownik w³aœciwy, rodzaj m2/f, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przesz³y, tryb oznajmuj¹cy
+sobie: rzeczownik, celownik, rodzaj m2/f, liczba pojedyncza
+co: spójnik
+powiem: czasownik w³aœciwy, rodzaj m1/m2/m3/n/f, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przysz³y, tryb oznajmuj¹cy
+Im: spójnik
+proœciej: przys³ówek, stopieñ wy¿szy
+tym: spójnik
+lepiej: przys³ówek, stopieñ wy¿szy
+Wiêc: partyku³a
+mówiê: czasownik w³aœciwy,  rodzaj m1/m2/m3/n/f, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+¿e: spójnik
+dobrze: przys³ówek, stopieñ równy
+siê: partyku³a
+czujê: czasownik w³aœciwy, rodzaj m1/m2/m3/n/f, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+w: przyimek
+klimacie: rzeczownik, miejscownik, rodzaj m3, liczba pojedyncza
+napiêcia: rzeczownik, dope³niacz, rodzaj n, liczba pojedyncza
+¿e: spójnik
+w: przyimek
+skrytoœci: rzeczownik, celownik, rodzaj f, liczba pojedyncza
+ducha: rzeczownik, dope³niacz, rodzaj m2, liczba pojedyncza
+marzy³em: czasownik w³aœciwy, rodzaj m1/m2/m3/n/f, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas przesz³y, tryb oznajmuj¹cy
+o: przyimek
+konkursowych: przymiotnik, miejscownik, rodzaj m3, liczba mnoga, stopieñ równy
+laurach: rzeczownik, miejscownik, rodzaj m3, liczba mnoga

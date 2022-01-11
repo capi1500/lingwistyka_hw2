@@ -1,0 +1,43 @@
+Oznacz morfoskładniowo – klasą gramatyczną oraz odpowiednimi dla tej klasy kategoriami gramatycznymi (przypadek, rodzaj, liczba, osoba, stopień, aspekt, czas, tryb – w tej kolejności.
+
+Reporterka, babka na medal, czeka z magnetofonem. Tysiące radiosłuchaczy słuchało, jak gram, teraz usłyszą mój głos. Umyśliłem sobie, co powiem. Im prościej, tym lepiej. Więc mówię, że dobrze się czuję w klimacie napięcia, że w skrytości ducha marzyłem o konkursowych laurach…
+
+Reporterka: rzeczownik, nom, f, sg
+babka: rzeczownik, nom, f, sg
+na: przyimek
+medal: rzeczownik, acc/nom, m3, sg
+czeka: czasownik właściwy, m1/m2/m3/n/f, sg, ter, imperf, pres, ind
+z: przyimek
+magnetofonem: rzeczownik, inst, m3, sg
+Tysiące: rzeczownik, nom/acc/voc, m3, pl
+radiosłuchaczy: rzeczownik, acc/gen, m1, pl
+słuchało: czasownik właściwy, n, sg, ter, imperf, past, ind
+jak: partykuło-przysłówek
+gram: czasownik właściwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind
+teraz: przysłówek
+usłyszą: czasownik właściwy, m1/m2/m3/n/f, pl, ter, perf, fut, ind
+mój: przymiotnik, nom/acc, m1/m2/m3, sg
+głos: rzeczownik, nom/acc, m3, sg
+Umyśliłem: czasownik właściwy, m1/m2/m3, sg, pri, perf, past, ind
+sobie: rzeczownik, dat/loc, m1/m2/m3/n/f, sg
+co: rzeczownik, nom, n, sg
+powiem: czasownik właściwy, m1/m2/m3/n/f, sg, pri, imperf, fut, ind
+Im: partykuło-przysłówek/zaimek osobowy, dat, m1/m2/m3/n, pl, ter
+prościej: przysłówek odprzymiotnikowy, com
+tym: partykuło-przysłówek/rzeczownik, dat/loc, m1/m2/m3/n, sg/pl, ter
+lepiej: przysłówek odprzymiotnikowy, com
+Więc: spójnik
+mówię: czasownik właściwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind
+że: partykuła
+dobrze: przysłówek odprzymiotnikowy, pos
+się: partykuła
+czuję: czasownik właściwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind
+w: przyimek
+klimacie: rzeczownik, loc, m3, sg
+napięcia: rzeczownik, acc/gen/nom/voc, n/f, sg/pl
+skrytości: rzeczownik, nom/acc/gen/loc/voc, f, sg/pl
+ducha: rzeczownik, acc/gen, m1/m2, sg
+marzyłem: czasownik właściwy, m1/m2/m3, sg, pri, imperf, past, ind
+o: przyimek
+konkursowych: przymiotnik, acc/gen/loc, m1, pl
+laurach: rzeczownik, loc, f, pl

@@ -1,0 +1,39 @@
+Reporterka: rzeczownik, mianownik, rodzaj żeński, liczba pojedyncza 
+Babka: rzeczownik, mianownik, rodzaj żeński, liczba pojedyncza 
+Na: przyimek 
+medal: rzeczownik, mianownik, rodzaj M3, liczba pojedyncza 
+czeka: czasownik właściwy, liczba pojedyncza, osoba trzecia, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący 
+z: przyimek 
+magnetofonem: rzeczownik, narzędnik, rodzaj M3, liczba pojedyncza 
+tysiące: rzeczownik, mianownik, rodzaj M3, liczba mnoga 
+radiosłuchaczy: rzeczownik, dopełniacz, rodzaj M3, liczba mnoga 
+słuchało: czasownik właściwy, liczba mnoga,  
+ jak: zaimek 
+gram: rzeczownik, mianownik, rodzaj M3, liczba pojedyncza 
+teraz: partykuło-przysłówek 
+usłyszą: czasownik właściwy, liczba mnoga, osoba trzecia, aspekt dokonany, czas przyszły, tryb oznajmujący 
+mój -zaimek, osoba pierwsza, Mianownik, rodzaj M1/M2/M3, liczba pojedyncza 
+głos: rzeczownik, biernik, rodzaj M3, liczba pojedyncza 
+umyśliłem: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przeszły, tryb oznajmujący 
+sobie: zaimek, osoba pierwsza, Celownik, rodzaj M1/M2/M3/N/F, liczba pojedyncza 
+co: partykuło-przysłówek 
+powiem: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przyszły, tryb oznajmujący 
+im: zaimek, osoba trzecia, Celownik, rodzaj M1/M2/M3, liczba mnoga prościej: przysłówek, stopień wyższy 
+tym: zaimek 
+lepiej: przysłówek, stopień wyższy 
+Więc: spójnik 
+Mówię: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący 
+Że: spójnik 
+dobrze: przysłówek, stopień równy 
+się: partykuła 
+czuję: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący 
+w: przyimek 
+klimacie: rzeczownik, miejscownik, rodzaj M3, liczba pojedyncza 
+napięcia: rzeczownik, dopełniacz, rodzaj M3, liczba pojedyncza 
+skrytości: rzeczownik, miejscownik, rodzaj żeński, liczba pojedyncza 
+w: przyimek 
+ducha: rzeczownik, dopełniacz, rodzaj M3, liczba pojedyncza 
+marzyłem: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas przeszły, tryb oznajmujący 
+o: przyimek 
+konkursowych: przymiotnik, miejscownik, liczba mnoga, rodzaj żeński 
+laurach: rzeczownik, miejscownik, rodzaj M3, liczba mnoga 

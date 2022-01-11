@@ -1,0 +1,22 @@
+Reporterka: rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+babka: rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+medal: rzeczownik, biernik, rodzaj m3, liczba pojedyncza
+czeka: czasownik w³aœciwy,liczba pojedyncza, osoba trzecia, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+magnetofonem: rzeczownik, narzêdnik, rodzaj m3, liczba pojedyncza
+Tysi¹ce: liczebnik, mianownik, liczba mnoga, rodzaj m1
+radiosz³uchaczy: rzeczownik, dope³niacz, rodzaj m1, liczba mnoga
+s³ucha³o: czasownik w³aœciwy, liczba mnoga, osoba trzecia, aspekt niedokonany, czas przesz³y, tryb oznajmuj¹cy
+gram: czasownik w³aœciwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas przesz³y tryb oznajmuj¹cy
+us³ysz¹: czasownik w³aœciwy, liczba mnoga, osoba trzecia, aspekt niedokonany, czasy przysz³y, tryb oznajmuj¹cy
+g³os: rzeczownik, mianownik, rodzaj m3, liczba pojedyncza
+Umyœli³em: czasownik w³aœciwy, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przesz³y, tryb oznajmuj¹cy
+powiem: czasownik w³aœciwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas przysz³y, tryb oznajmuj¹cy
+mówiê: czasownik w³aœciwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+czujê: czasownik w³aœciwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraŸniejszy, tryb oznajmuj¹cy
+klimacie: rzeczownik, dope³niacz, rodzaj m3, liczba pojedyncza
+napiêcia: rzeczownik, dope³niacz, rodzaj n, liczba pojedyncza
+skrytoœci; rzeczownik, dope³niacz, rodzaj n, liczba pojedyncza
+ducha: rzeczownik, dope³niacz, rodzaj m3, liczba pojedyncza
+marzy³em: czasownik w³aœciwy, liczba pojedyncza, osoba pierwszam aspekt niedokonany, czas przesz³y, tryb oznajmuj¹cy
+konkursowych: przymiotnik, miejscownik, liczba mnoga, rodzaj m3
+laurach: rzeczwonik, miejscownik, rodzaj m3, liczba mnoga

@@ -1,0 +1,41 @@
+Reporterka: rzeczownik, nom, f, sg,
+babka: rzeczownik, nom, f, sg,
+na: przyimek
+medal: rzeczownik, acc, m3, sg,
+czeka: czasownik osobowy, f, sg, ter, imperf, pres, ind,
+z: przyimek
+magnetofonem: rzeczownik, inst, m3, sg,
+Tysiące: rzeczownik, acc, m3, pl
+radiosłuchaczy: rzeczownik, acc, m1, pl,
+słuchało: czasownik osobowy, m1, ter, imperf, past, ind,
+jak: spójnik
+gram: czasownik osobowy, m1, prim, imperf, pres, ind,
+teraz: przysłówek
+usłyszą: czasownik osobowy, n, pl, ter, perf, fut, ind,
+mój: przymiotnik, nom/acc, m3, sg, pos, 
+głos: rzeczownik, nom/acc, m3, sg
+Umyśliłem: czasownik osobowy, m3, prim, perf, past, ind,
+sobie: rzeczownik, dat, m1/m2/m3/f/n, sg
+co: rzeczownik, nom, m3, sg,
+powiem: czasownik osobowy, m3, prim, imperf, fut, ind
+Im: zaimek, dat, m1, sg
+prościej: przysłówek
+tym: spójnik
+lepiej: przysłówek
+Więc: spójnik
+mówię: czasownik osobowy, m1/m2/m3/f/n, prim, imperf, pres, ind,
+że: spójnik
+dobrze: przysłówek 
+się: zaimek
+czuje: czasownik osobowy, m1/m2/m3/f/n, prim, imperf, ind,
+w: przyimek
+klimacie: rzeczownik, loc, m3, sg,
+napięcia: rzeczownik, gen, n, sg
+że: spójnik
+w: przedimek
+skrytości: rzeczownik, dat, f, sg
+ducha, rzeczownik, acc, m1/m2, sg
+marzyłem: czasownik osobowy, m1/m2, prim, imperf, past, ind,
+o: spójnik
+konkursowych: przymiotnik, loc, m3, pl, pos
+laurach: rzeczownik, loc, m3, pl

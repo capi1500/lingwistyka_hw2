@@ -1,0 +1,39 @@
+przypadek, rodzaj, liczba, osoba, stopień, aspekt, czas, tryb
+Reporterka: rzeczownik, mianownik, rodzaj żeński, liczba pojedyncza
+Babka: rzeczownik, mianownik, rodzaj żeński, liczba pojedyncza
+na: przyimek
+medal: rzeczownik, mianownik/biernik, rodzaj m3, liczba pojedyncza
+czeka: czasownik właściwy, liczba pojedyncza, trzecia osoba, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący 
+z: przyimek
+magnetofonem: rzeczownik, narzędnik, rodzaj m3, liczba pojedyncza
+Tysiące: rzeczownik, biernik, rodzaj m3, liczba mnoga
+Radiosłuchaczy: rzeczownik, dopełniacz, rodzaj m1, liczba mnoga
+słuchało: czasownik właściwy, rodzaj nijaki, liczba pojedyncza, trzecia osoba, aspekt niedokonany, czas przeszły, tryb oznajmujący
+jak: spójnik
+gram: czasownik właściwy, liczba pojedyncza, pierwsza osoba, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący
+teraz: przysłówek
+usłyszą: czasownik właściwy, liczba mnoga, trzecia osoba, aspekt dokonany, czas przyszły, tryb oznajmujący
+mój: zaimek, mianownik, rodzaj m1/m2/m3, liczba pojedyncza, pierwsza osoba
+głos: rzeczownik, mianownik/biernik, rodzaj m3, liczba pojedyncza
+umyśliłem: czasownik właściwy, rodzaj męski, liczba pojedyncza, pierwsza osoba, aspekt dokonany, czas przeszły, tryb oznajmujący
+sobie: zaimek zwrotny 
+co: zaimek, mianownik/biernik/wołacz, liczba pojedyncza
+powiem: czasownik właściwy, liczba pojedyncza, pierwsza osoba, aspekt dokonany, czas przyszły, tryb oznajmujący
+im...tym: spójnik
+prościej: przysłówek, stopień wyższy
+lepiej: przysłówek, stopień wyższy
+więc: spójnik
+mówię: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący 
+że: spójnik
+dobrze: przysłówek, stopień równy
+czuję się: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący
+w: przyimek
+klimacie: rzeczownik, miejscownik, rodzaj m3, liczba pojedyncza  
+napięcia: rzeczownik, dopełniacz, rodzaj nijaki, liczba pojedyncza
+że: spójnik
+w: przyimek
+skrytości: rzeczownik, miejscownik, rodzaj żeński, liczba pojedyncza
+marzyłem: czasownik właściwy, rodzaj m1, liczba pojedyncza, osoba pierwsza, aspekt dokonany, tryb oznajmujący 
+o: przyimek
+konkursowych: przymiotnik, miejscownik, liczba mnoga
+laurach: rzeczownik, miejscownik, rodzaj m3, liczba mnoga

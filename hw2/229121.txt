@@ -1,0 +1,50 @@
+
+Reporterka, babka na medal, czeka z magnetofonem. 
+Tysiące radiosłuchaczy słuchało, jak gram, teraz usłyszą mój głos. 
+Umyśliłem sobie, co powiem. 
+Im prościej, tym lepiej. 
+Więc mówię, że dobrze się czuję w klimacie napięcia, że w skrytości ducha marzyłem o konkursowych laurach…
+
+Reporterka:rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+babka:rzeczownik, mianownik, rodzaj f, liczba pojedyncza
+na:przyimek
+medal:rzeczownik, biernik, rodzaj m3, liczba pojedyncza
+czeka:czasownik właściwy, liczba pojedyncza, osoba trzecia, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący
+z:przyimek
+magnetofonem:rzeczownik, narzędnik, rodzaj m3, liczba pojedyncza
+Tysiące:rzeczownik, mianownik, rodzaj m3, liczba mnoga
+radiosłuchaczy:rzeczownik, dopełniacz, rodzaj m1, liczba mnoga
+słuchało:czasownik właściwy, liczba mnoga, osoba trzecia, aspekt niedokonany, czas przeszły, tryb oznajmujący
+jak: spójnik
+gram:czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas przeszły, tryb oznajmujący
+teraz: przysłówek, stopień równy
+usłyszą:czasownik właściwy, liczba mnoga, osoba trzecia, aspekt niedokonany, czas przyszły, tryb oznajmujący
+mój: przymiotnik, mianownik, rodzaj m1/m2/m3, liczba pojedyncza
+głos:rzeczownik, biernik, rodzaj m3, liczba pojedyncza
+Umyśliłem: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przeszły, tryb oznajmujący
+sobie:partykuła
+co:partykuła
+powiem: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt dokonany, czas przyszły, tryb oznajmujący
+Im: rzeczownik, celownik, rodzaj m1/m2/m3, liczba mnoga
+prościej: przysłówek, stopień wyższy 
+tym: przymiotnik, narzędnik, rodzaj n/m1/m2/m3, liczba pojedyncza
+lepiej: przyszłówek, stopień wyższy
+Więc:spójnik
+mówię: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący
+że: spójnik
+dobrze: przysłówek, stopień równy
+czuje się: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas teraźniejszy, tryb oznajmujący
+w: przyimek
+klimacie: rzeczownik, miejscownik, rodzaj m3, liczba pojedyncza
+napięcia: rzeczownik, dopełniacz, rodzaj n, liczba pojedyncza
+że: spójnik
+w: przyimek
+skrytości: rzeczownik, dopełniacz, rodzaj f, liczba pojedyncza
+ducha: rzeczownik, dopełniacz, rodzaj m3, liczba pojedyncza
+marzyłem: czasownik właściwy, liczba pojedyncza, osoba pierwsza, aspekt niedokonany, czas przeszły, tryb oznajmujący
+o: przyimek
+konkursowych: przymiotnik, miejscownik, rodzaj f, liczba mnoga,
+laurach:rzeczownik, miejscownik, rodzaj f, liczba mnoga
+
+ 
+ 

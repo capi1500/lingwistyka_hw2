@@ -1,0 +1,41 @@
+Reporterka: rzeczownik, mianownik, rodzaj ¿, liczba poj.
+babka: rzeczownik, mianownik, rodzaj ¿, liczba poj.
+na: przyimek
+medal: rzeczownik, mianownik, rodzaj m1, liczba poj.
+czeka: czasownik w³aœciwy, liczba poj., osoba 3., aspekt ndk, czas teraz., tryb ozn.
+z: przyimek
+magnetofonem: rzeczownik, narzêdnik, rodzaj m3, liczba poj.
+Tysi¹ce: rzeczownik, mianownik, rodzaj m3, liczba mn.
+radios³uchaczy: rzeczownik, dope³niacz, rodzaj m1, liczba mn.
+s³ucha³o: czasownik w³aœciwy, liczba poj., osoba 3., aspekt ndk, czas przesz³y, tryb ozn.
+jak: ³¹cznik
+gram: czasownik w³aœciwy, liczba poj., osoba 1., aspekt ndk, czas teraz., tryb ozn.
+teraz: partyku³a
+us³ysz¹: czasownik w³aœciwy, liczba mn., osoba 3., aspekt dk, czas przysz³y, tryb ozn.
+mój: przymiotnik, mianownik, rodzaj m2, liczba poj.
+g³os: rzeczownik, mianownik, rodzaj m2, liczba poj.
+Umyœli³em: czasownik w³aœciwy, liczba poj., osoba 1., aspekt dk, czas przesz³y, tryb ozn.
+sobie: zaimek, celownik, liczba poj., akc
+co: spójnik
+powiem: czasownik w³aœciwy, liczba poj., osoba 1., aspekt dk, czas przysz³y, tryb ozn.
+Im: spójnik
+proœciej: przys³ówek, stopieñ wy¿szy
+tym: spójnik
+lepiej: przys³ówek, stopieñ wy¿szy
+Wiêc: ³¹cznik
+mówiê: czasownik w³aœciwy, liczba poj., osoba 1., aspekt ndk, czas teraz., tryb ozn.
+¿e: ³¹cznik
+dobrze: przys³ówek
+siê: zaimek, dope³niacz/biernik, liczba poj., ~akc
+czujê: czasownik w³aœciwy, liczba poj., osoba 1., aspekt ndk, czas teraz., tryb ozn.
+w: przyimek
+klimacie: rzeczownik, miejscownik, rodzaj m3, liczba poj.
+napiêcia: rzeczownik, dope³niacz, rodzaj n, liczba poj.
+¿e: ³¹cznik
+w: przyimek
+skrytoœci: rzeczownik, miejscownik, rodzaj ¿, liczba poj.
+ducha: rzeczownik, dope³niacz, rodzaj m2, liczba poj.
+marzy³em: czasownik w³aœciwy, liczba poj., osoba 1., aspekt ndk, czas przesz³y, tryb ozn.
+o: przyimek
+konkursowych: przymiotnik, miejscownik, rodzaj m3, liczba mn.
+laurach: rzeczownik, miejscownik, rodzaj m3, liczba mn.

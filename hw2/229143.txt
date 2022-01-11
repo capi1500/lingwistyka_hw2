@@ -1,0 +1,41 @@
+﻿Reporterka: rzeczownik, nom, f, sg
+babka: rzeczownik, nom, f, sg
+na: przyimek
+medal: rzeczownik, nom/acc, m3, sg
+czeka: czasownik właściwy, m1/m2/m3/f/n, sg, ter, imperf, pres, ind
+z: przyimek
+magnetofonem: rzeczownik, inst, m3, sg
+Tysiące: rzeczownik, acc/nom, m3, sg/pl
+radiosłuchaczy: rzeczownik, gen/acc, m1, pl
+słuchało: czasownik właściwy, n, sg, ter, imperf, past, ind
+jak: partykuła
+gram: czasownik właściwy, m1/m2/m3/f/n, sg, pri, imperf, pres, ind
+teraz: partykuła
+usłyszą: czasownik właściwy, m1/m2/m3/n/f, pl, ter, imperf, fut, ind
+mój: przymiotnik, nom, m1/m2/m3, sg, pos
+głos: rzeczownik, nom/acc, m3, sg
+Umyśliłem: czasownik właściwy, m1/m2/m3, sg, pri, perf, past, ind
+sobie: partykuła
+co: partykuła
+powiem: czasownik właściwy, m1/m2/m3/f/n, sg, pri, perf, fut, ind
+Im: zaimek, gen, m1/m2/m3/f/n, pl, ter
+prościej: przysłówek, com
+tym: partykuła
+lepiej: przysłówek, com
+Więc: spójnik
+mówię: czasownik właściwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind
+że: spójnik
+dobrze: przysłówek, pos
+się: partykuła
+czuję: czasownik właściwy, m1/m2/m3/f/n, sg, pri, imperf, pres, ind
+w: przyimek 
+klimacie: rzeczownik, loc, m3, sg
+napięcia: rzeczownik, gen/acc, n, sg/pl
+że: spójnik
+w: przyimek
+skrytości: rzeczownik, loc/gen/nom, f, sg/pl
+ducha: rzeczownik, gen, m2, sg
+marzyłem: czasownik właściwy, m1/m2/m3/f/n sg, pri, imperf, past, ind
+o: przyimek
+konkursowych: przymiotnik, loc/gen, f, pl, pos
+laurach: rzeczownik, loc, m3, pl

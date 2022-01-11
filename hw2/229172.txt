@@ -1,0 +1,42 @@
+reporterka: rzeczownik, nom, f, sg
+babka: rzeczownik, nom, f, sg
+na: przyimek 
+medal: rzeczownik, acc, m3, sg
+czeka: czasownik w³aœciwy, f, sg, ter, imperf, pres, ind
+z: przyimek
+magnetofonem: rzeczownik, inst, m3, sg
+tysi¹ce: rzeczownik, acc, m3, pl
+radios³uchaczy: rzeczownik, acc, m1, pl
+s³ucha³o: czasownik w³aœciwy, n, sg, ter, imperf, past, ind
+jak: partyku³a
+gram: czasownik w³aœciwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind
+teraz: partyku³a
+us³ysz¹: czasownik w³aœciwy, m1/m2/m3/n/f, pl, ter, perf, fut, ind
+mój: przymiotnik, acc, m3, sg
+g³os: rzeczownik, acc, m3, sg
+umyœli³em: czasownik w³aœciwy, m1/m2/m3/n, sg, pri, perf, past, ind
+sobie: partyku³a
+co: rzeczownik, acc, n, sg
+powiem: czasownik w³aœciwy, m1/m2/m3/n/f, sg, pri, perf, fut, ind
+im: spójnik
+proœciej: przys³ówek, com
+tym: spójnik
+lepiej: przys³ówek, com
+wiêc: spójnik
+mówiê: czasownik w³aœciwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind
+¿e: spójnik
+dobrze: przys³ówek, pos
+siê: partyku³a
+czujê: czasownik w³aœciwy, m1/m2/m3/n/f, sg, pri, imperf, pres, ind
+w: przyimek
+klimacie: rzeczownik, loc, m3, sg
+napiêcia: rzeczownik, gen, n, sg
+¿e: spójnik
+w: przyimek
+skrytoœci: rzeczownik, loc, f, sg
+ducha: rzeczownik, gen, m2, sg
+marzy³em: czasownik w³aœciwy, m1/m2/m3/n, sg, pri, imperf, past, ind
+o: przyimek
+konkursowych: przymiotnik, loc, m3, pl
+laurach : rzeczownik, loc, m3, pl
+
