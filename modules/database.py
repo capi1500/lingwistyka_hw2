@@ -1,4 +1,4 @@
-def get_from_alternative(db, value: str) -> (int, str, str):
+def get_from_alternative(db, value: str) -> (int, str, int):
 	db.execute(
 		"""
 		select v.*
@@ -9,12 +9,12 @@ def get_from_alternative(db, value: str) -> (int, str, str):
 	)
 	res = db.fetchall()
 	if not res:
-		return 0, "", ""
+		return 0, "", 0
 	(out,) = res
 	return out
 
 
-def get_from_value(db, value: str) -> (int, str, str):
+def get_from_value(db, value: str) -> (int, str, int):
 	db.execute(
 		"""
 		select * from Value v where form = %s;
@@ -22,12 +22,12 @@ def get_from_value(db, value: str) -> (int, str, str):
 	)
 	res = db.fetchall()
 	if not res:
-		return 0, "", ""
+		return 0, "", 0
 	(out,) = res
 	return out
 
 
-def get_default_form(db, value: str) -> (int, str, str):
+def get_default_form(db, value: str) -> (int, str, int):
 	(value_id, form, category) = get_from_value(db, value)
 	if value_id == 0:
 		return get_from_alternative(db, value)
@@ -35,7 +35,7 @@ def get_default_form(db, value: str) -> (int, str, str):
 
 
 def value_exists(db, value: str):
-	return get_default_form(db, value) != (0, "", "")
+	return get_default_form(db, value) != (0, "", 0)
 
 
 def insert_value(con, db, value: str, ref: str):
@@ -49,11 +49,11 @@ def insert_value(con, db, value: str, ref: str):
 	con.commit()
 
 
-def get_category_id(db, category: str) -> int:
+def get_category_str(db, category: int) -> str:
 	db.execute(
 		"""
-		select id from category where name = %s
-		""", [category]
+		select name from category where id = %s
+		""", [str(category)]
 	)
-	(out,) = db.fetchall()
+	((out,),) = db.fetchall()
 	return out
