@@ -1,8 +1,9 @@
 from modules.context import Context
-from modules.utils import conditional_input, cmp_sets
+from modules.utils import conditional_input, set_to_str
 import modules.database as db
 
 
+# Class for managing processed information about a line
 class LineValue:
 	def __init__(self, word):
 		self.word = word
@@ -16,6 +17,7 @@ class LineValue:
 		self.time = set()
 		self.mood = set()
 
+	# Add [value] to [self] depending on [category] value
 	def add(self, category: int, value: str):
 		if category == 1:
 			self.clas.add(value)
@@ -59,8 +61,14 @@ class LineValue:
 		        self.aspe == other.aspe and
 		        self.time == other.time and
 		        self.mood == other.mood)
-	
+
+	# Print difference between [self] and [other]
 	def show_diff(self, other):
+		# Helper function
+		def cmp_sets(set1: set, set2: set):
+			if set1 != set2:
+				print("\t\tgot: '" + set_to_str(set1) + "', expected: '" + set_to_str(set2) + "'")
+
 		if self.word != other.word:
 			print("\t\tgot: '" + self.word + "', expected: '" + other.word + "'")
 		cmp_sets(self.clas, other.clas)
@@ -71,7 +79,8 @@ class LineValue:
 		cmp_sets(self.aspe, other.aspe)
 		cmp_sets(self.time, other.time)
 		cmp_sets(self.mood, other.mood)
-	
+
+	# Return [True] is [self] is empty
 	def empty(self):
 		return (len(self.clas) == 0 and 
 	            len(self.case) == 0 and 
@@ -84,6 +93,7 @@ class LineValue:
 	            len(self.mood) == 0)
 		
 
+# Process a [line] using flags and database connection from [context]. Returns [None] if line is invalid or filled [LineValue]
 def process_line(line: str, context: Context, line_number: int):
 	line = line.lower()
 	possibly_illegal = False

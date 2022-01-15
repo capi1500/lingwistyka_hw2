@@ -2,6 +2,7 @@ import os.path
 from modules.line import process_line
 
 
+# Validate a single file
 def validate_file(context, path):
 	print("Validate file:", path)
 	try:
@@ -15,6 +16,7 @@ def validate_file(context, path):
 		print(f"Exception: {type(err)=}")
 
 
+# Validate a file or each file in directory (non-recursive)
 def validate(context):
 	if os.path.isfile(context.path):
 		validate_file(context, context.path)
@@ -25,6 +27,7 @@ def validate(context):
 				input()
 
 
+# Compare a file with model answer. [context.model] must be a string with a path to file with model answer
 def compare_file(context, path):
 	print("Compare files:", path, context.model)
 	try:
@@ -73,6 +76,7 @@ def compare_file(context, path):
 		print(f"Exception: {type(err)=}")
 
 
+# Compare a file or each file in directory (non-recursive) with model answer. [context.model] must be a string with a path to file with model answer
 def compare(context):
 	if os.path.isfile(context.path):
 		compare_file(context, context.path)

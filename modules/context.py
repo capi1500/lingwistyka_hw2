@@ -2,6 +2,7 @@ import os.path
 import psycopg2
 
 
+# Helper class for storing execution flags, filenames and database conection
 class Context:
 	def __init__(self, path, args):
 		self.args = args

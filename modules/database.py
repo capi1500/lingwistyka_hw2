@@ -1,3 +1,4 @@
+# Get row with [value] from AlternativeValue table
 def get_from_alternative(db, value: str) -> (int, str, int):
 	db.execute(
 		"""
@@ -14,6 +15,7 @@ def get_from_alternative(db, value: str) -> (int, str, int):
 	return out
 
 
+# Get row with [value] from Value table
 def get_from_value(db, value: str) -> (int, str, int):
 	db.execute(
 		"""
@@ -27,6 +29,7 @@ def get_from_value(db, value: str) -> (int, str, int):
 	return out
 
 
+# Get row from Value table that references [value] or is a row with [value]
 def get_default_form(db, value: str) -> (int, str, int):
 	(value_id, form, category) = get_from_value(db, value)
 	if value_id == 0:
@@ -34,10 +37,12 @@ def get_default_form(db, value: str) -> (int, str, int):
 	return value_id, form, category
 
 
+# Return true if row with [value] exists in Value of AlternativeValue table
 def value_exists(db, value: str):
 	return get_default_form(db, value) != (0, "", 0)
 
 
+# Insert [value], referencing [ref] in Value, into AlternativeValue table
 def insert_value(con, db, value: str, ref: str):
 	(ref_id, _, _) = get_default_form(db, ref)
 	db.execute(
@@ -49,6 +54,7 @@ def insert_value(con, db, value: str, ref: str):
 	con.commit()
 
 
+# Get name of the category with [category] id
 def get_category_str(db, category: int) -> str:
 	db.execute(
 		"""
